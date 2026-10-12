@@ -24,6 +24,7 @@
 - [Teams 承認依頼投稿の @mention 自動化（Power Automate）](https://github.com/yj-platform-lab/work/blob/main/teams-message-posting/README.md)
 - [ServiceNow期限切れチケットのTeamsメンション通知ワークフロー](https://github.com/yj-platform-lab/work/blob/main/servicenow-overdue-ticket-notifier/README.md)
 - ★ [GitHub ActionsとEC2でSplunkアプリの検証環境を構築する](https://github.com/yj-platform-lab/splunk-app-dev-environment/blob/main/README.md)
+-  [Splunk検証環境のコンテナ構成見直しとGHCRによるイメージ管理](https://github.com/yj-platform-lab/splunk-app-container-images/blob/main/README.md)
 
 ### アプリ開発
 - [Listening Repeater](https://github.com/yj-platform-lab/listening-repeater)
