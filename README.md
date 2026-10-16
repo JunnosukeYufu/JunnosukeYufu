@@ -9,7 +9,7 @@
 
 ### インフラ設計・移行
 - [VirtualBox仮想マシンをEC2に移行する](https://github.com/yj-platform-lab/tech-verification/blob/main/vbox-to-ec2-migration/README.md)
-- [EC2をSSM Managed Instanceに認識させる](https://github.com/yj-platform-lab/tech-verification/blob/main/ec2-ssm-managed-instance/README.md)
+- [EC2をSystems Managerで管理するための前提条件](https://github.com/yj-platform-lab/tech-verification/blob/main/ec2-ssm-managed-instance/README.md)
 - [なぜEC2にはVMwareのようなリモートコンソールが見当たらないのか](https://github.com/yj-platform-lab/tech-verification/blob/main/aws-ec2-connect-models/README.md)
 - ★ [Xen世代EC2からNitro世代EC2へ移行-RHEL7](https://github.com/yj-platform-lab/tech-verification/blob/main/xen-to-nitro-migration/README.md)
 - [Active DirectoryのOU設計を比較する ― 組織改正に強い設計とは](https://github.com/yj-platform-lab/tech-verification/blob/main/active-directory-ou-design-comparison/README.md)
